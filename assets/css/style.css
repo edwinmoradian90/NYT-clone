@@ -1,0 +1,309 @@
+/*Reset*/
+
+*,
+html,
+body {
+  margin: 0;
+  border: 0;
+}
+
+/* Tag Name */
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+/* Classes */
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.center_nav {
+  position: relative;
+  top: 5.5px;
+  right: 30px;
+}
+
+.center_brand {
+  float: right;
+  position: relative;
+  right: 50%;
+  top: -15px;
+}
+
+.navbar li {
+  list-style: none;
+  text-decoration: none;
+}
+
+.hamburger-icon {
+  height: 17px;
+  width: 25px;
+  padding-right: 20px;
+  padding-top: 12px;
+}
+
+.search-icon {
+  height: 16px;
+  width: 16px;
+  padding-right: 20px;
+  padding-top: 12px;
+}
+
+.nav_title {
+  font-weight: 900;
+  padding-top: 12px;
+}
+
+.brand {
+  height: 70px;
+  width: 170px;
+  position: absolute;
+}
+
+.button {
+  padding: 11px 12px 8px;
+  background-color: #6288a5;
+  color: #ffffff;
+  font-size: 11px;
+  border-radius: 3px;
+}
+
+.main-section>div {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.main-section>div>a {
+  float: left;
+}
+
+.main-section>div>a>img {
+  width: 1200px;
+  height: 675px;
+}
+
+.main-section>div>figcaption {
+  clear: both;
+  margin: 10px 20px 0px 0px;
+  width: 900px;
+}
+
+.body-container {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.body-container>div {
+  width: 600px;
+  margin: 50px auto 15px auto;
+}
+
+.body-container>ul {
+  list-style-type: none;
+  width: 600px;
+  margin: 0 auto;
+  padding: 30px;
+  margin-bottom: 20px;
+}
+
+.body-container>ul>li:nth-child(1) {
+  float: left;
+}
+
+.body-container>ul>li {
+  float: right;
+  padding-right: 10px;
+}
+
+.main-section>div>div>p {
+  float: left;
+  font-weight: bold;
+}
+
+.main-section>div>div>span {
+  padding-left: 5px;
+  font-weight: bold;
+}
+
+.main-section>div>div>span>a {
+  color: black;
+  text-decoration: underline;
+}
+
+.article-title {
+  max-width: 30vw;
+  margin: 0 auto;
+}
+
+.article-title>span {
+  float: left;
+  margin: 30px 0px;
+}
+
+.body-section {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.body-section>div {
+  margin: 0 auto;
+}
+
+.body-section>div>aside {
+  width: 210px;
+  height: 300px;
+  padding: 20px;
+  float: right;
+  margin-top: 200px;
+}
+
+.body-section>div>aside>h2 {
+  padding-bottom: 5px;
+}
+
+.body-section>div>aside>p {
+  padding-bottom: 10px;
+}
+
+.body-section>div>aside>button {
+  height: 35px;
+  width: 210px;
+  color: white;
+  background-color: slategray;
+}
+
+.body-section>div>h3 {
+  width: 600px;
+  margin-left: 300px;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 400;
+  display: inline-block;
+}
+
+.editors-picks>h2 {
+  font-size: 14px;
+  padding-bottom: 12px;
+  border-bottom: 0.5px solid lightgray;
+}
+
+.editors-picks>ul {
+  list-style-type: none;
+  padding-top: 12px;
+  padding-left: 0;
+}
+
+.editors-picks>ul>li {
+  margin-bottom: 10px;
+}
+
+.editors-picks>ul>li>a {
+  float: left;
+  margin-bottom: 10px;
+}
+
+.editors-picks>ul>li>a>img {
+  float: left;
+  height: 75px;
+  width: 75px;
+}
+
+.editors-picks>ul>li>a>h3 {
+  float: right;
+  font-size: 14px;
+  font-weight: 300;
+  padding: 22px 0 22px 10px;
+  width: 125px;
+}
+
+.editors-picks>ul>li>a>h3:hover {
+  cursor: pointer;
+}
+
+.theory-section {
+  width: 945px;
+}
+
+.theory-section>h1 {
+  font-size: 20px;
+  padding: 0 0 2px 0;
+}
+
+.theory-section>p {
+  color: #666666;
+  font-size: 14px;
+  margin: 0 0 7px 0;
+  width: 945px;
+}
+
+.theory-section>img {
+  height: 576px;
+  width: 945px;
+}
+
+.theory-section>footer {
+  width: 945px;
+}
+
+.theory-section>footer>p {
+  padding: 20px 0;
+  margin: 0 0 50px 0;
+}
+
+.caption {
+  margin: 0 0 40px 0;
+}
+
+.caption>span:nth-child(1) {
+  color: #666666;
+  display: block;
+  font-size: 15px;
+}
+
+.caption>span:nth-child(2) {
+  color: #666666;
+  display: block;
+  font-size: 13px;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.dish>img {
+  height: 481px;
+  width: 720px;
+  margin-left: -70px;
+}
+
+.dish>figcaption {
+  margin-left: -70px;
+  width: 720px;
+}
+
+.dish>figcaption>span {
+  font-size: 15px;
+}
+
+.dish>figcaption>a {
+  font-size: 13px;
+}
+
+/* IDS */
+
+#nav-container {
+  height: 42px;
+  width: 100%;
+  background-color: white;
+  border-bottom: 1px solid lightgray;
+  position: sticky;
+  top: 0;
+}
