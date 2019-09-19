@@ -379,11 +379,15 @@ a {
 }
 
 .social-links>ul {
-  width: 200px;
+  width: 150px;
   padding: 10px 0 0 0;
 }
 
-.social-links>ul>a {
+.social-links>ul>li {
+  display: inline-block;
+}
+
+.social-links>ul>li>a {
   padding: 10px;
 }
 
@@ -606,13 +610,13 @@ a {
 .bottom-fixed>a>p:nth-child(2) {
   float: left;
   padding: 22px 0;
-  margin-left: 300px;
+  margin-left: 325px;
 }
 
 .bottom-fixed>a>p:nth-child(1) {
   float: left;
   padding: 22px 0;
-  margin-left: 45%
+  margin-left: 43%
 }
 
 /* IDS */
