@@ -1,19 +1,18 @@
-# **Project Name**
+# **NYT-clone**
 
 ## Project for [microverse](https://www.microverse.org).
 
-### [View Demo](https://raw.githack.com/edwinmoradian90/#add-repo-here/features/index.html) | [View Code](https://github.com/edwinmoradian90/#add-repo-here)
+### [View Demo](https://raw.githack.com/edwinmoradian90/NYT-clone/feature-branch/index.html) | [View Code](https://github.com/edwinmoradian90/NYT-clone)
 
 # Screenshot
 
-![Youtube page](./assets/images/screenshot.png)
+![New York Times](./assets/images/screenshot.png)
 
 # Objectives
 
-*1
-*2
-*3
-*4
+- Clone this [New York Times](https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0) article.
+
+- Use only floats for elment positioning
 
 # Built With
 
