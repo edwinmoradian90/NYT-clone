@@ -2,7 +2,7 @@
 
 ## Project for [microverse](https://www.microverse.org).
 
-### [View Demo](https://raw.githack.com/edwinmoradian90/NYT-clone/feature-branch/index.html) | [View Code](https://github.com/edwinmoradian90/NYT-clone)
+### [View Demo](https://raw.githack.com/edwinmoradian90/NYT-clone/master/index.html) | [View Code](https://github.com/edwinmoradian90/NYT-clone)
 
 # Screenshot
 
